@@ -11,8 +11,8 @@ automatically. The program will ask you the limit of numbers where you want to g
 
 ## Execution
 
-To execute the program, use the command: `python prove01.py` on your terminal. Then you need to pick a number to give the program
+To execute the program, use the command: `python3 prove01.py` on your terminal. Then you need to pick a number to give the program
 a base to generate the random number. After that is just type your
 guess and press "ENTER/RETURN" to see if you guessed lower or
 higher than the generated number.
-![Program Screenshot Displaying Hello World on terminal](screenshot.png)
+![Game Running](screenshot.png)
