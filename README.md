@@ -2,7 +2,7 @@
 
 This is a simple Guess Game to get started learning Python.
 The only library imported is "random" to generate a different value
-automatically
+automatically. The program will ask you the limit of numbers where you want to guess between the chosen number and 0.
 
 ## Development Environment
 
@@ -15,4 +15,4 @@ To execute the program, use the command: `python prove01.py` on your terminal. T
 a base to generate the random number. After that is just type your
 guess and press "ENTER/RETURN" to see if you guessed lower or
 higher than the generated number.
-![Program Screenshot Displaying Hello World on terminal](screenshot.PNG)
+![Program Screenshot Displaying Hello World on terminal](screenshot.png)
